@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Quicksand', sans-serif;
+}
+.btn{
+  background-color:#ee6567cf;
+}
+.btn:hover{
+  background-color:#ee6567;
+}
+.nav-item{
+  font-weight: bolder;
+}
+.nav-item>.nav-link.active:hover{
+  color:#ee6567;
+}
+
+/*Home*/
+#homeSectionOne{
+  background-color: #FCF4F4;
+}
+#sectionThree >img {
+width:100%;
+}
+/*About*/
+#about,#Contact{
+  background-color: #ee656731;
+}
+#Contact img{
+  width: 100%;
+}
